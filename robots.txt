@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
